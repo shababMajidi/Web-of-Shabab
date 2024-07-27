@@ -1,0 +1,22 @@
+h2{
+    color:blue ;
+    
+}
+
+p{
+    color: purple;
+}
+
+hr{
+    color: grey;
+}
+
+h4{
+    color:red;
+}
+
+.contianer{
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom:100 px;
+}
